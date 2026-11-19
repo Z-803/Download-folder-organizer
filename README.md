@@ -4,9 +4,13 @@ open the folder the .sh file is in and run
 "chmod +x sort-downloads.sh"
 
  Usage: sort-downloads.sh [-x] [dir]
+ 
   no flag : dry run (prints what would happen)
+  
   -x      : actually move the files
+  
   dir     : defaults to ~/Downloads
+  
 
 ##################################################
 
