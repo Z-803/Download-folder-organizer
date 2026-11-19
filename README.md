@@ -19,3 +19,4 @@ open the folder the .sh file is in and run
 
 
 windows: it won’t run in power shell or cmd. You’d need WSL or git bash. For native windows you’d need a power shell version of the script also not tested
+ 
