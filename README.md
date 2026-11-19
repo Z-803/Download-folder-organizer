@@ -1,4 +1,5 @@
 Instructions on how to use (linux):
+
 open the folder the .sh file is in and run 
 
 "chmod +x sort-downloads.sh"
